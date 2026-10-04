@@ -17,3 +17,7 @@ find Exercice1/ann/2017 -type f -exec grep -oE 'T[0-9]+' {} \; | wc -l >> PPE1-2
 echo "les annotations de 2018 sont :" >> PPE1-2026/Exercices/locations.txt
 find Exercice1/ann/2018 -type f -exec grep -oE 'T[0-9]+' {} \; | wc -l >> PPE1-2026/Exercices/locations.txt
 petite remarque mes monsieurs : en utilisant la commande cat il m'affiche 0 à chq fois je pense qu'il n'arrive pas à parcourir les sous-fichiers contenue dans chq dossier
+exercice 2 a :
+find Exercice1/ann/2016 -type f -exec grep "Location" {} \; | awk '{print $NF}' | grep -Fxf <(sed 's/^ *//' PPE1-2026/pays_du_monde.txt) | sort | uniq -c | sort -n | tail -15 > PPE1-2026/Exercices/classement_2016.txt
+find Exercice1/ann/2017 -type f -exec grep "Location" {} \; | awk '{print $NF}' | grep -Fxf <(sed 's/^ *//' PPE1-2026/pays_du_monde.txt) | sort | uniq -c | sort -n | tail -15 > PPE1-2026/Exercices/classement_2017.txt
+find Exercice1/ann/2018 -type f -exec grep "Location" {} \; | awk '{print $NF}' | grep -Fxf <(sed 's/^ *//' PPE1-2026/pays_du_monde.txt) | sort | uniq -c | sort -n | tail -15 > PPE1-2026/Exercices/classement_2018.txt
