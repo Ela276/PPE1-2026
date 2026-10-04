@@ -1,0 +1,15 @@
+      5 Portugal
+      5 Turquie
+      6 Myanmar
+      7 Espagne
+      7 Serbie
+     10 Hongrie
+     12 Suisse
+     13 Chine
+     14 Italie
+     15 Allemagne
+     15 Belgique
+     16 Royaume-Uni
+     18 Japon
+     37 États-Unis
+    175 France

@@ -1,0 +1,241 @@
+    Açores
+    Afghanistan
+    Afrique du Sud
+    Albanie
+    Algérie
+    Allemagne
+    Andorre
+    Angola
+    Anguilla
+    Antigua et Barbuda
+    Arabie Saoudite
+    Argentine
+    Arménie
+    Aruba
+    Australie
+    Autriche
+    Azerbaïdjan
+    Bahamas
+    Bahreïn
+    Bangladesh
+    Barbade
+    Belgique
+    Belize
+    Bénin
+    Bermudes
+    Bhoutan
+    Biélorussie
+    Bolivie
+    Bonaire
+    Bosnie-Herzégovine
+    Botswana
+    Brésil
+    Brunei Darussalam
+    Bulgarie
+    Burkina Faso
+    Burundi
+    Caïmans, Iles
+    Cambodge
+    Cameroun
+    Cap vert
+    Chili
+    Chine
+    Christmas, Ile
+    Chypre
+    Colombie
+    Comores
+    Congo
+    Cook, Iles
+    Corée du Nord
+    Corée du Sud
+    Costa Rica
+    Côte d'Ivoire
+    Croatie
+    Cuba
+    Curaçao
+    Danemark
+    Djibouti
+    Dominique
+    Égypte
+    Emirats Arabes Unis
+    Équateur
+    Érythrée
+    Espagne
+    Estonie
+    Eswatini (Swaziland)
+    États-Unis
+    Éthiopie
+    Féroé, iles
+    Fidji
+    Finlande
+    France
+    Gabon
+    Gambie
+    Géorgie
+    Ghana
+    Gibraltar
+    Grèce
+    Grenade
+    Groenland
+    Guadeloupe
+    Guam
+    Guatemala
+    Guinée
+    Guinée Équatoriale
+    Guinée-Bissau
+    Guyane
+    Guyane Française
+    Haïti
+    Honduras
+    Hong Kong
+    Hongrie
+    Iles Canaries
+    Iles Vierges Britanniques
+    Iles Vierges des États-Unis
+    Inde
+    Indonésie
+    Iran
+    Iraq
+    Irlande
+    Islande
+    Israël
+    Italie
+    Jamaïque
+    Japon
+    Jordanie
+    Kazakhstan
+    Kenya
+    Kirghizistan
+    Kiribati
+    Kosovo
+    Koweït
+    Laos
+    Lesotho
+    Lettonie
+    Liban
+    Libéria
+    Libye
+    Liechtenstein
+    Lituanie
+    Luxembourg
+    Macao
+    Macédoine
+    Madagascar
+    Madère
+    Malaisie
+    Malawi
+    Maldives
+    Mali
+    Malouines, Iles
+    Malte
+    Mariannes du Nord, Iles
+    Maroc
+    Marshall, Iles
+    Martinique
+    Maurice, Ile
+    Mauritanie
+    Mayotte
+    Mexique
+    Micronésie
+    Moldavie
+    Monaco
+    Mongolie
+    Montenegro
+    Montserrat
+    Mozambique
+    Myanmar
+    Namibie
+    Nauru
+    Népal
+    Nicaragua
+    Niger
+    Nigéria
+    Nioué
+    Norvège
+    Nouvelle-Calédonie
+    Nouvelle-Zélande
+    Oman
+    Ouganda
+    Ouzbékistan
+    Pakistan
+    Palaos (Bélau)
+    Panama
+    Papouasie-Nouvelle-Guinée
+    Paraguay
+    Pays-Bas
+    Pérou
+    Philippines
+    Pitcairn
+    Pologne
+    Polynésie Française
+    Porto Rico
+    Portugal
+    Qatar
+    République Centrafricaine
+    République Démocratique du Congo
+    République Dominicaine
+    Réunion
+    Roumanie
+    Royaume-Uni
+    Russie (Fédération de)
+    Rwanda
+    Saba
+    Saint-Barthélemy
+    Saint-Eustache
+    Saint-Kitts-et-Nevis
+    Saint-Marin
+    Saint-Martin (France)
+    Saint-Martin (Pays-Bas)
+    Saint-Pierre-et-Miquelon
+    Saint-Vincent-et-Grenadines
+    Sainte-Hélène
+    Sainte-Lucie
+    Salomon, Iles
+    Salvador
+    Samoa
+    Samoa-Américain
+    Sao Tome-et-Principe
+    Sénégal
+    Serbie
+    Seychelles
+    Sierra Leone
+    Singapour
+    Slovaquie
+    Slovénie
+    Somalie
+    Soudan
+    Soudan du Sud
+    Sri Lanka
+    Suède
+    Suisse
+    Suriname
+    Swaziland
+    Syrie
+    Tadjikistan
+    Taïwan
+    Tanzanie, République Unie
+    Tchad
+    Tchèque, République
+    Tchéquie (République Tchèque)
+    Thaïlande
+    Timor Oriental
+    Togo
+    Tokelaou
+    Tonga
+    Trinité-et-Tobago
+    Tunisie
+    Türkiye (Turquie)
+    Turkménistan
+    Turks et Caicos
+    Turquie
+    Tuvalu
+    Ukraine
+    Uruguay
+    Vanuatu
+    Vatican
+    Vénézuela
+    Vietnam
+    Wake, Ile
+    Yémen
+    Zambie
+    Zimbabwe
